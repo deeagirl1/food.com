@@ -1,0 +1,57 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 28px;
+}
+
+.content {padding:20px;}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 12px;
+  
+}
+
+button {
+  background-color: #1abc9c;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 12px;
+  
+}
+
+hr {
+  border: 0.5px solid #f1f1f1;
+  margin: 20px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.container, signup-container {
+  padding: 16px;
+  display: inline-block;
+  margin-left: 25%;
+  margin-right:25%;
+  width: 50%;
+}
