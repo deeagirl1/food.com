@@ -3,9 +3,6 @@
 Food.com allows people to order food.
 
 ## The team
-
-------------------
-
 | Members |
 | ------ | ------ |
 | Bohdan Tymofieienko | Andreea Şindrilaru |
